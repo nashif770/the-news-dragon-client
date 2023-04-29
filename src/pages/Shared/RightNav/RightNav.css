@@ -1,0 +1,15 @@
+.right-navbg{
+    margin: auto;
+    width: 260px;
+    height: 510px;
+    background-image: url('../../../assets/bg.png');
+    background-size: contain;
+    height: 50vh;
+    color: white;
+    padding: 20px;
+}
+
+.right-navbg h2{
+    font-size: 30px;
+    font-weight: bold;
+}
